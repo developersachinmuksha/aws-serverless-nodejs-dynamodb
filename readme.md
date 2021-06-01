@@ -8,7 +8,8 @@ Steps to run this project:-
 3. Set serverless configs by using this cmd:
     serverless config credentials --provider aws --key accessKeyId --secret secretAccessKey
 4. To run test: use cmd:- npm run test
-4. Then done! enjoy.
+5. To deploy: use cmd:- serverless deploy
+6. Then done! enjoy.
 
 
 Author:- SACHIN MUKSHA
